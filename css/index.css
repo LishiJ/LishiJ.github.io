@@ -1310,7 +1310,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #2b333e;
+  --btn-hover-color: #47484c;
   --btn-color: #fff;
   --btn-bg: #475164;
   --text-bg-hover: rgba(71,81,100,0.7);
@@ -1420,7 +1420,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #2b333e;
+  background: #47484c;
   color: #f7f7f7;
 }
 button {
@@ -1886,7 +1886,7 @@ blockquote footer cite:before {
   font-size: 1.72em;
 }
 .article-sort-title:hover:before {
-  border-color: #2b333e;
+  border-color: #47484c;
 }
 .article-sort-title:before {
   position: absolute;
@@ -1938,7 +1938,7 @@ blockquote footer cite:before {
   transition: all 0.2s ease-in-out;
 }
 .article-sort-item:hover:before {
-  border-color: #2b333e;
+  border-color: #47484c;
 }
 .article-sort-item:before {
   position: absolute;
@@ -1968,7 +1968,7 @@ blockquote footer cite:before {
   border-color: #475164;
 }
 .article-sort-item.year:before {
-  border-color: #2b333e;
+  border-color: #47484c;
 }
 .article-sort-item-time {
   color: #47484c;
@@ -2092,7 +2092,7 @@ blockquote footer cite:before {
   content: '';
 }
 #page .category-lists ul li:hover:before {
-  border-color: #2b333e;
+  border-color: #47484c;
 }
 #body-wrap {
   display: -webkit-box;
@@ -2881,8 +2881,8 @@ blockquote footer cite:before {
   transition: all 0.2s ease-in-out;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  border-left-color: #222932;
-  background: #2b333e;
+  border-left-color: #393a3d;
+  background: #47484c;
   color: #fff;
 }
 #aside-content #card-toc .toc-content:before {
@@ -3722,7 +3722,7 @@ blockquote footer cite:before {
   cursor: pointer;
 }
 #pagination .page-number.current {
-  background: #2b333e;
+  background: #47484c;
   color: var(--white);
   cursor: default;
 }
@@ -4290,7 +4290,7 @@ blockquote footer cite:before {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: #475164;
-  --waline-active-color: #2b333e;
+  --waline-active-color: #47484c;
   --waline-avatar-size: 2.75rem;
 }
 #waline-wrap .vuser {
